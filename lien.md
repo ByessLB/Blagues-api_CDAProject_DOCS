@@ -7,10 +7,16 @@
 - **render.com :** https://blagues-api.onrender.com
 
 Ajouter une blague :
-- **postman :** (POST) https://blagues-api.onrender.com/api/blagues
+- **postman :** (POST) https://blagues-api.onrender.com/api/ajouterBlauge
 
-voir liste blauges:
+voir liste blagues:
 - **postman :** (GET) https://blagues-api.onrender.com/api/blagues
+
+voir une blague:
+- **postman :** (GET) https://blagues-api.onrender.com/api/blagues/{id}
+
+voir une blague aléatoire:
+- **postman :** (GET) https://blagues-api.onrender.com/api/random
 
 ## Documentation
 
