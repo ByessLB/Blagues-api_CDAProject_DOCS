@@ -28,7 +28,7 @@
 | Ajouter une blague | Permet d'insérer une nouvelle blague dans la base de données via un appel POST. | `POST /blagues` |
 | Consulter toutes les blagues | Retourne une liste de toutes les blagues stockées. | `GET /blagues` |
 | Consulter une blague par ID | Permet de récupérer une blaque précise via son ID. | `GET /blagues/:id` |
-| Consulter une blague aléatoire | Retourne une blague aléatoire. | `GET /blagues/random` |
+| Consulter une blague aléatoire | Retourne une blague aléatoire. | `GET /random` |
 
 ### Frontend
 
