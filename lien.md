@@ -21,3 +21,11 @@ voir une blague aléatoire:
 ## Documentation
 
 - **Github :** https://docs.github.com/fr/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site
+
+## GitHub
+
+- **Doc's :** https://github.com/ByessLB/Blagues-api_CDAProject_DOCS
+
+- **Backend :** https://github.com/ByessLB/blagues-api_CDAProject_nodeJs
+
+- **Frontend :**https://github.com/ByessLB/blagues-api_CDAProject_frontend_ReactJs
